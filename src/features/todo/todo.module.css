@@ -1,0 +1,16 @@
+.todo{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    column-gap: 2%;
+    border: 1px solid #ccc;
+}
+.todo h3{
+    width: 20%;
+    /* border: 1px solid #ccc; */
+}
+.todo p{
+    width: 60%;
+    /* border: 1px solid #ccc; */
+}
